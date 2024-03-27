@@ -2,7 +2,7 @@
 
 React ile yapılmış Youtube clone projesidir.
 
-<h3> Kullanılan kütüphaneler kütüphaneler</h3>
+<h3> Kullanılan  kütüphaneler</h3>
 
 - react-icons
 - react-router-dom
