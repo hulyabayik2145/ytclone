@@ -13,4 +13,5 @@ React ile yapılmış Youtube clone projesidir.
 - tailwind (stillendirme)
 
 <h3>Ekran Gif</h3>
+
 ![](yt_clone-1.gif)
